@@ -1,3 +1,0 @@
-const char *					T_PTROBJ
-fko_ctx_t					T_PTROBJ
-fko_ctx_t *					T_PTROBJ

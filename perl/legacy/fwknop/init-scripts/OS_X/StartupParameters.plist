@@ -1,4 +1,0 @@
-{
-  Description     = "fwknopd single packet authorization for network services";
-  Provides        = ("Single Packet Authorization via fwknopd");
-}
